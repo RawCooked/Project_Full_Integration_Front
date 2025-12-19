@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hello-world-app/static/css/main.f9dc1378.css",
+    "main.js": "/hello-world-app/static/js/main.90b5871d.js",
+    "index.html": "/hello-world-app/index.html",
+    "main.f9dc1378.css.map": "/hello-world-app/static/css/main.f9dc1378.css.map",
+    "main.90b5871d.js.map": "/hello-world-app/static/js/main.90b5871d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9dc1378.css",
+    "static/js/main.90b5871d.js"
+  ]
+}
